@@ -1,0 +1,8 @@
+18:47:53.019 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+18:47:53.027 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+18:47:53.027 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+18:47:53.028 [main] DEBUG com.baczewski.compiler.ProgramCompilerApplication - debugujemy
+18:47:53.028 [main] TRACE com.baczewski.compiler.ProgramCompilerApplication - wychodze
+18:48:55.018 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+18:48:55.036 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+18:48:55.036 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
