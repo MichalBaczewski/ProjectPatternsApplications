@@ -6,3 +6,124 @@
 18:48:55.018 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
 18:48:55.036 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
 18:48:55.036 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+09:26:58.308 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+09:26:58.337 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+09:26:58.337 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+09:56:19.137 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+09:56:19.145 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+09:56:19.145 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+09:56:38.596 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+09:56:38.607 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+09:56:38.607 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+09:57:52.433 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+09:57:52.441 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+09:57:52.442 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+10:01:15.157 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+10:01:15.174 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+10:01:15.174 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+10:04:11.897 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+10:04:11.905 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+10:04:11.905 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+10:04:55.328 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+10:04:55.342 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+10:04:55.343 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+10:06:50.969 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+10:06:50.976 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+10:06:50.977 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+10:07:01.731 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+10:07:01.740 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+10:07:01.740 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+10:13:36.378 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+10:13:36.387 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+10:13:36.387 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+11:05:16.577 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+11:05:16.584 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+11:05:16.584 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+11:10:46.209 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+11:10:46.216 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+11:10:46.217 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+11:35:06.204 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+11:35:06.214 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+11:35:06.215 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+11:58:30.812 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+11:58:30.820 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+11:58:30.820 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+11:59:08.672 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+11:59:08.686 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+11:59:08.686 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:00:38.249 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:00:38.258 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:00:38.258 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:05:53.982 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:05:53.989 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:05:53.990 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:07:40.530 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:07:40.540 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:07:40.540 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:08:02.035 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:08:02.046 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:08:02.046 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:08:02.047 [main] DEBUG com.baczewski.compiler.ProgramCompilerApplication - debugujemy
+12:08:02.047 [main] TRACE com.baczewski.compiler.ProgramCompilerApplication - wychodze
+12:08:02.058 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 9 z 119
+12:08:02.058 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 10 z 119
+12:08:02.058 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 11 z 119
+12:08:02.059 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 12 z 119
+12:08:02.059 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 13 z 119
+12:08:02.059 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 14 z 119
+12:08:02.061 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 15 z 119
+12:08:02.061 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 16 z 119
+12:08:02.062 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 17 z 119
+12:08:02.062 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 111 z 119
+12:08:02.062 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 113 z 119
+12:08:02.062 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 114 z 119
+12:08:02.062 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 116 z 119
+12:08:02.062 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 118 z 119
+12:08:34.044 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:08:34.053 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:08:34.053 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:08:34.053 [main] DEBUG com.baczewski.compiler.ProgramCompilerApplication - debugujemy
+12:08:34.053 [main] TRACE com.baczewski.compiler.ProgramCompilerApplication - wychodze
+12:08:34.065 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 9 z 119
+12:08:34.065 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 10 z 119
+12:08:34.065 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 11 z 119
+12:08:34.065 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 12 z 119
+12:08:34.065 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 13 z 119
+12:08:34.065 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 14 z 119
+12:08:34.066 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 15 z 119
+12:08:34.066 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 16 z 119
+12:08:34.066 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 17 z 119
+12:08:34.066 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 111 z 119
+12:08:34.066 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 113 z 119
+12:08:34.067 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 114 z 119
+12:08:34.067 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 116 z 119
+12:08:34.067 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 118 z 119
+12:08:34.067 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 119 z 119
+12:08:34.067 [main] DEBUG com.baczewski.compiler.GotoEvaluator - Znalazłem index119
+12:09:17.534 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:09:17.542 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:09:17.543 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:13:29.296 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:13:29.305 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:13:29.305 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja
+12:13:29.305 [main] DEBUG com.baczewski.compiler.ProgramCompilerApplication - debugujemy
+12:13:29.305 [main] TRACE com.baczewski.compiler.ProgramCompilerApplication - wychodze
+12:13:29.323 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 9 i 119.
+12:13:29.323 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 10 i 119.
+12:13:29.323 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 11 i 119.
+12:13:29.323 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 12 i 119.
+12:13:29.324 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 13 i 119.
+12:13:29.324 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 14 i 119.
+12:13:29.324 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 15 i 119.
+12:13:29.324 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 16 i 119.
+12:13:29.324 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 17 i 119.
+12:13:29.324 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 111 i 119.
+12:13:29.325 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 113 i 119.
+12:13:29.325 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 114 i 119.
+12:13:29.325 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 116 i 119.
+12:13:29.325 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 118 i 119.
+12:13:29.325 [main] TRACE com.baczewski.compiler.GotoEvaluator - Porownuje 119 i 119.
+12:13:29.325 [main] DEBUG com.baczewski.compiler.GotoEvaluator - Znalazłem index 119.
+12:16:22.340 [main] ERROR com.baczewski.compiler.ProgramCompilerApplication - error
+12:16:22.352 [main] WARN  com.baczewski.compiler.ProgramCompilerApplication - warnnig
+12:16:22.352 [main] INFO  com.baczewski.compiler.ProgramCompilerApplication - informacja

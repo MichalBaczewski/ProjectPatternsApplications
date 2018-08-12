@@ -1,11 +1,10 @@
 package com.baczewski.compiler;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 class ProgramMemory {
+    private int index =0;
+    private Set<Long> visitedGotoAdress = new HashSet<>();
     private List<Instruction> instructions = new ArrayList<>();
     private Map<String, String> variables = new HashMap<>();
     public void addInstruction(Instruction instruction) {
@@ -16,8 +15,12 @@ class ProgramMemory {
         variables.put(variable, value);
     }
 
-    public String mapToString() {
-        return variables.toString();
+    public void addVisitedGotoAdress(Long address) {
+        visitedGotoAdress.add(address);
+    }
+
+    public boolean hasNextInstruction() {
+        return index < instructions.size();
     }
 
     public String getValue(String variable) {
@@ -27,4 +30,21 @@ class ProgramMemory {
     public List<Instruction> getInstructions() {
         return instructions;
     }
+
+    public Set<Long> getVisitedGotoAdress() {
+        return visitedGotoAdress;
+    }
+
+    public Map<String, String> getVariables() {
+        return variables;
+    }
+
+    public Instruction getNextInstruction() {
+        return instructions.get(index++);
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
+    }
+
 }

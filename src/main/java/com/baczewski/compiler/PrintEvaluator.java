@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class PrintEvaluator implements Evaluator {
 
 
-    public static final Pattern PATTERN = Pattern.compile("(\\$\\S+)");
+    public static final Pattern PATTERN = Pattern.compile("(\\$(\\w+))");
 
     private final Instruction instruction;
     private final ProgramMemory programMemory;

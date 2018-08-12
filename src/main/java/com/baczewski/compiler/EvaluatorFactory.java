@@ -18,8 +18,9 @@ public class EvaluatorFactory {
             return new GetEvaluator(instruction, programMemory);
         } else if ("CAL".equalsIgnoreCase(type)) {
             return new CalEvaluator(instruction);
+        } else if ("GOTO".equalsIgnoreCase(type)) {
+            return new GotoEvaluator(instruction, programMemory);
         }
         return new ErrorEvaluator(instruction);
     }
-
 }

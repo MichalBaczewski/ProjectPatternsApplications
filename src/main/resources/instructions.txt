@@ -7,3 +7,10 @@
 15 PRINT hello $name2 jest kolega $name $name
 16 PRINT hello $name4
 17 CAL 3+6
+111 CAL 2 -6
+113 CAL 12 /0
+114 CAL 1 + 5
+116 GOTO 119
+118 PRINT hello
+119 PRINT helloPodAdresem119
+
